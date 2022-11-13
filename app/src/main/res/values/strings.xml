@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">ApplicationDialogs</string>
+    <string name="dialog_text">START THE GAME?</string>
+    <string name="cancel_action">User pressed CANCEL</string>
+    <string name="ok_action">User pressed OK</string>
+</resources>
